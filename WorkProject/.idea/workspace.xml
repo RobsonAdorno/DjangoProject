@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da7cff05-ea2c-4b9b-a610-778ab326971c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/css/util.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/images/bg-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/python/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/python/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/python/example/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/python/lib/python.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/python/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/python/test/python.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script_verify_version_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scriptmigations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WorkProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WorkProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/views/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
