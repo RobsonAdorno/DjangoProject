@@ -33,6 +33,7 @@ class Role(models.Model):
     def __str__(self):
             return self.role
 
+
 class UserRole(models.Model):
     user_role_id = models.AutoField(primary_key=True)
     user_id = models.CharField(max_length=50)
